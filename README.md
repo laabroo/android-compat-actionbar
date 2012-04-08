@@ -11,4 +11,4 @@ Project Information
 ===================
 
  * Home Page: https://github.com/lvillani/android-compat-actionbar
- * Upsteam: http://developer.android.com/resources/samples/ActionBarCompat/index.html
+ * Upstream: http://developer.android.com/resources/samples/ActionBarCompat/index.html
